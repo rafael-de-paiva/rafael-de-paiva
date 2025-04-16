@@ -33,7 +33,7 @@ I strive to deliver more than what's expected, constantly seeking new knowledge 
 ### 📊 Tools & Platforms
 - Git, GitHub, GitHub Actions (CI/CD)
 - Node.js, Postman, Insomnia
-- VS Code, Taiga, Notion, Slack
+- VS Code, Slack
 - Windows & Linux environments
 
 ### 🎓 Technologies
