@@ -69,7 +69,7 @@ I strive to deliver more than what's expected, constantly seeking new knowledge 
 
 ## 💼 Projects
 
-### 🔍 [Automated Web Tests with Cypress + Cucumber](https://github.com/rafael-de-paiva/portfolio-qa-automated-web-test)
+### 🔍 [QA Automation Portfolio - Web Project (Cypress + Cucumber + BDD)](https://github.com/rafael-de-paiva/portfolio-qa-automated-web-test)
 > A complete portfolio using Cypress and BDD to automate UI tests with clean structure, GitHub Actions, and dynamic data.
 
 ### 🔍 [QA Automation Portfolio - API Project (Cypress + GitHub Actions)](https://github.com/rafael-de-paiva/portfolio-qa-automated-api-test)
