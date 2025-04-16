@@ -69,10 +69,12 @@ I strive to deliver more than what's expected, constantly seeking new knowledge 
 
 ## 💼 Projects
 
-### 🔍 [QA Automation Portfolio - Web Project (Cypress + Cucumber + BDD)](https://github.com/rafael-de-paiva/portfolio-qa-automated-web-test) ![Project Badge](https://github.com/rafael-de-paiva/portfolio-qa-automated-web-test/actions/workflows/cypress-pipeline.yml/badge.svg)
+### 🔍 [QA Automation Portfolio - Web Project (Cypress + Cucumber + BDD)](https://github.com/rafael-de-paiva/portfolio-qa-automated-web-test) 
+![Project Badge](https://github.com/rafael-de-paiva/portfolio-qa-automated-web-test/actions/workflows/cypress-pipeline.yml/badge.svg)
 > A complete portfolio using Cypress and BDD to automate UI tests with clean structure, GitHub Actions, and dynamic data.
 
-### 🔍 [QA Automation Portfolio - API Project (Cypress + GitHub Actions)](https://github.com/rafael-de-paiva/portfolio-qa-automated-api-test) ![Project Badge](https://github.com/rafael-de-paiva/portfolio-qa-automated-api-test/actions/workflows/pipeline.yml/badge.svg)
+### 🔍 [QA Automation Portfolio - API Project (Cypress + GitHub Actions)](https://github.com/rafael-de-paiva/portfolio-qa-automated-api-test) 
+![Project Badge](https://github.com/rafael-de-paiva/portfolio-qa-automated-api-test/actions/workflows/pipeline.yml/badge.svg)
 > API testing project focused on clean code, validations, environment configs, and scalable structure.
 
 ---
