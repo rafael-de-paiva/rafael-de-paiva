@@ -1,6 +1,6 @@
 # Hi there, I'm Rafael! 🐉
 
-Student of Computer Engineering | Aspiring QA Analyst & Future QA Engineer
+Student of Computer Engineering | QA Analyst | Future QA Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafael-paiva-49b88430a)
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail)](mailto:rafael123paiva@gmail.com)
@@ -10,72 +10,62 @@ Student of Computer Engineering | Aspiring QA Analyst & Future QA Engineer
 
 ## 📚 About Me
 
-I'm currently pursuing a degree in **Computer Engineering** and beginning my journey in **Software Quality Assurance (QA)**. My background includes experience with computer maintenance, networks, cybersecurity, and interface design.
+I'm currently studying **Computer Engineering**, with a strong focus on **Software Quality Assurance (QA)**. I have hands-on experience with both manual and automated testing for Web, API, Mobile and Performance, applying agile practices (Scrum, Kanban) and QA fundamentals across academic and real-world volunteer projects.
 
-I'm deeply passionate about testing and quality processes, with hands-on experience in:
-- **Manual testing** (Web, API via Postman & Insomnia)
-- **Automated testing** for Web, API and Mobile using Cypress, CodeceptJS, Playwright, Supertest, Appium, and RestAssured
-- **Test documentation** and behavior-driven development using Gherkin and Cucumber
+I use tools like Cypress, Selenium, Playwright, Appium, JMeter, Postman, and GitHub Actions, and I’m skilled in JavaScript, Python, Java, SQL and Bash. I'm driven by curiosity, strategy, and a genuine passion for delivering clean, reliable, and high-quality software.
 
-I strive to deliver more than what's expected, constantly seeking new knowledge and learning with purpose. Sometimes I get lost thinking about how vast the world is and how little time we have to learn everything. Still, I keep pushing forward with the drive to understand as much as possible.
+One of my proudest achievements is earning the **ISTQB CTFL Certification**, which reinforced my foundation in QA principles and best practices.
 
 ---
 
 ## 🔧 Hard Skills
 
 ### 🧪 Testing & QA
-- Manual Testing (Web, APIs, Mobile)
-- Automated Testing (Cypress, CodeceptJS, Playwright, Appium, Supertest, RestAssured)
-- BDD with Gherkin & Cucumber
-- Test Documentation & Bug Reporting
-- Functional, Integration & System Testing
+Manual & Automated Testing (Web, API, Mobile)  
+Cypress, Playwright, Selenium, Appium, CodeceptJS, RestAssured  
+Postman, Insomnia, JMeter, K6, Supertest  
+Test Documentation, Test Planning, BDD with Gherkin & Cucumber
 
-### 📊 Tools & Platforms
-- Git, GitHub, GitHub Actions (CI/CD)
-- Node.js, Postman, Insomnia
-- VS Code, Slack
-- Windows & Linux environments
+### 💻 Technologies & Tools
+JavaScript, Python, Java, SQL, Bash  
+Git, GitHub, GitHub Actions, Docker, CI/CD  
+VS Code, IntelliJ, Jira, Qase, Figma, Slack
 
-### 🎓 Technologies
-- JavaScript, Python, Java, SQL, Bash
-- Fundamentals of Cybersecurity & Interface Design
-
-### 💡 Methodologies
-- Agile: Scrum & Kanban
-- Testing Approaches: White-box, Black-box
-- Documentation, Test Planning & Analysis
-- KPI and OKR understanding for QA
+### 🧠 Methodologies
+Agile: Scrum & Kanban  
+White-box & Black-box Testing  
+Test Lifecycle, OKR & Quality Metrics
 
 ---
 
 ## 🌟 Soft Skills
 
-- 🌟 Focused on objectives and quality
-- 🔧 Problem-solving and creative thinking
-- 😊 Friendly, formal and respectful communication
-- 🌀 Proactive and self-organized
-- 🌐 Fast learner with strategic thinking
-- 🤝 Willingness to help and advise teammates
-- 🤟 Comfortable in coordination and planning roles
+🎯 Focused on quality and results  
+🧩 Strategic problem-solving  
+💬 Respectful and effective communication  
+🔄 Proactive and self-organized  
+🤝 Collaborative and supportive  
+🧠 Fast learner with high adaptability  
+🛠️ Comfortable leading and planning tasks
 
 ---
 
 ## 🌍 Languages
 
-- 🇵🇹 Portuguese — Native
-- 🇺🇸 English — Advanced (C1 Certified)
+🇧🇷 Portuguese — Native  
+🇺🇸 English — Advanced (C1)
 
 ---
 
 ## 💼 Projects
 
 ### 🔍 [QA Automation Portfolio - Web Project (Cypress + Cucumber + BDD)](https://github.com/rafael-de-paiva/portfolio-qa-automated-web-test) 
-> A complete portfolio using Cypress and BDD to automate UI tests with clean structure, GitHub Actions, and dynamic data.
+> Automated UI testing with a clean and scalable structure using Cypress and BDD.
 
 ![Project Badge](https://github.com/rafael-de-paiva/portfolio-qa-automated-web-test/actions/workflows/cypress-pipeline.yml/badge.svg)
 
 ### 🔍 [QA Automation Portfolio - API Project (Cypress + GitHub Actions)](https://github.com/rafael-de-paiva/portfolio-qa-automated-api-test) 
-> API testing project focused on clean code, validations, environment configs, and scalable structure.
+> Robust API test project featuring clean code, modular design, and automated pipelines.
 
 ![Project Badge](https://github.com/rafael-de-paiva/portfolio-qa-automated-api-test/actions/workflows/pipeline.yml/badge.svg)
 
@@ -83,16 +73,17 @@ I strive to deliver more than what's expected, constantly seeking new knowledge 
 
 ## 📈 Goals & Vision
 
-I aim to grow as a **QA Analyst**, gain hands-on experience, and eventually become a **QA Lead or Engineer**, where I can apply my creative thinking, leadership mindset, and technical versatility to help teams deliver high-quality software.
+I’m growing into a skilled **QA Analyst**, aiming to specialize further and one day lead QA efforts as a **QA Engineer or QA Lead**, combining creativity, structure, and purpose to build better tech.
 
 ---
 
 ## 🚀 Fun Facts
 
-- I'm passionate about **games**, **music**, and **drawing**
-- I’m **autistic**, and I embrace it as a strength that brings focus, analytical depth, and unique perspective
-- I often reflect on how vast the world is and how little time we have to learn everything — which fuels my desire to absorb as much knowledge as I can
+🎮 I love games, music, and digital art  
+🧠 I'm autistic — and I embrace it as a source of strength, focus, and unique insight  
+🌌 I'm always seeking to learn deeply and meaningfully, even if the world feels too vast to absorb it all
 
 ---
 
-Thanks for reading! Feel free to connect with me anytime ✨
+Thanks for visiting! Let's connect and build quality together ✨
+
